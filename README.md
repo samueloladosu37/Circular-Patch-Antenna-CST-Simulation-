@@ -43,7 +43,7 @@ The antenna shows a broadside radiation pattern with a maximum directivity of ap
 ---
 
 ### Gain & Directivity
- ![Preview](https://github.com/samueloladosu37/fusion360-sample-modeling/blob/main/KeyLock%20Assembly.png)
+ ![Preview](https://github.com/samueloladosu37/Circular-Patch-Antenna-CST-Simulation-/blob/main/Max%20Gain%20Vs%20Freq.jpg)
 
 - Peak gain: 6.76 dBi
 - Directivity: 7.09 dBi
