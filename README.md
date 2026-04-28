@@ -18,7 +18,7 @@ The antenna shows a broadside radiation pattern with a maximum directivity of ap
 ## Key Results
 
 ### Return Loss (S11)
- ![Preview](https://github.com/samueloladosu37/fusion360-sample-modeling/blob/main/KeyLock%20Assembly.png)
+ ![Preview](https://github.com/samueloladosu37/Circular-Patch-Antenna-CST-Simulation-/blob/main/S11.jpg)
 
 - Resonance at 2.92 GHz
 - S11 ≈ -10.48 dB
