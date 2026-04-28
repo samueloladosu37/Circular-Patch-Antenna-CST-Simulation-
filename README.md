@@ -27,7 +27,7 @@ The antenna shows a broadside radiation pattern with a maximum directivity of ap
 ---
 
 ### VSWR
- ![Preview](https://github.com/samueloladosu37/fusion360-sample-modeling/blob/main/KeyLock%20Assembly.png)
+ ![Preview](https://github.com/samueloladosu37/Circular-Patch-Antenna-CST-Simulation-/blob/main/VSWR.jpg)
 
 - Minimum VSWR ≈ 1.85
 - Good matching near resonance
