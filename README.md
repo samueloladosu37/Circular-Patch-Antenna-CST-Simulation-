@@ -51,7 +51,7 @@ The antenna shows a broadside radiation pattern with a maximum directivity of ap
 ---
 
 ### Surface Current
- ![Preview](https://github.com/samueloladosu37/fusion360-sample-modeling/blob/main/KeyLock%20Assembly.png)
+ ![Preview](https://github.com/samueloladosu37/Circular-Patch-Antenna-CST-Simulation-/blob/main/Surface%20I.jpg)
 
 - TM11 mode confirmed
 - Strong edge currents
