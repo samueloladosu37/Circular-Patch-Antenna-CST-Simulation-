@@ -35,7 +35,7 @@ The antenna shows a broadside radiation pattern with a maximum directivity of ap
 ---
 
 ### Radiation Pattern
- ![Preview](https://github.com/samueloladosu37/fusion360-sample-modeling/blob/main/KeyLock%20Assembly.png)
+ ![Preview](https://github.com/samueloladosu37/Circular-Patch-Antenna-CST-Simulation-/blob/main/farfield.jpg)
 
 - Broadside radiation (+z direction)
 - Low back radiation
