@@ -72,6 +72,6 @@ The antenna shows a broadside radiation pattern with a maximum directivity of ap
 - Mesh: Adaptive (3 passes)
 - Convergence: ΔS < 0.005
  ![Preview](https://github.com/samueloladosu37/Circular-Patch-Antenna-CST-Simulation-/blob/main/Background%20conditons.jpg)
- ![Preview]()
+ ![Preview](https://github.com/samueloladosu37/Circular-Patch-Antenna-CST-Simulation-/blob/main/Boundary%20Conditions.jpg)
   
   
